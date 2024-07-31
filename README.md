@@ -17,7 +17,7 @@ Developed by: **Salfi Hacker**
 
 ## Download
 
-You can download the standalone executable from the [releases page](https://github.com/cyberfantics/photo-album/releases/tag/PhotoAlbum).
+You can download the standalone executable from the [releases page](https://github.com/cyberfantics/photo-album/releases/download/PhotoAlbum/photo_album.exe).
 
 ## Usage
 
@@ -36,6 +36,5 @@ You can download the standalone executable from the [releases page](https://gith
 ## Screenshot
 
 ![Screenshot](screenshot/1.png)
-![Screenshot](screenshot/2.png)
 
 ## Thank you for using the Photo Album Generator!
