@@ -17,7 +17,7 @@ Developed by: **Salfi Hacker**
 
 ## Download
 
-You can download the standalone executable from the [releases page](https://github.com/cyberfantics/photo-album/releases).
+You can download the standalone executable from the [releases page](https://github.com/cyberfantics/photo-album/releases/tag/PhotoAlbum).
 
 ## Usage
 
